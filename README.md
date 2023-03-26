@@ -1,5 +1,5 @@
 # rep1
 
-# test repository.
+## test repository.
 
-# This is a test file.
+This is a test file.
