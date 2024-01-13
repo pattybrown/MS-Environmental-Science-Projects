@@ -1,4 +1,4 @@
-Comparitive Analysis of Reflectance Wavelengths
+Comparative Analysis of Reflectance Wavelengths
 ================
 
 ``` r
