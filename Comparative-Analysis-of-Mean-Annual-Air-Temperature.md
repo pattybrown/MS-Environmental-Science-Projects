@@ -47,7 +47,7 @@ ggplot(banner1, aes(x = temperature_mean, color = year, group = year)) +
   theme(text = element_text(size = 20))
 ```
 
-![](Comparative-Analysis-of-Mean-Annual-Air-Temperature_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Figures/temp1.png)<!-- -->
 
 Create boxplot:
 
@@ -58,7 +58,7 @@ ggplot(banner1, aes(x = year, y = temperature_mean, color = year, group = year1)
   theme(text = element_text(size = 20))
 ```
 
-![](Comparative-Analysis-of-Mean-Annual-Air-Temperature_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Figures/temp2.png)<!-- -->
 
 Run anova analysis:
 
