@@ -68,7 +68,7 @@ ggplot(output, aes(x = wavelength, y =  spectrum, group = wavelength, color = wa
   theme(text = element_text(size = 15))
 ```
 
-![](Comparitive-Analysis-of-Reflectance-Wavelengths_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Figures/unnamed-chunk-4-1.png)<!-- -->
 
 Conduct statistical analysis to compare the groups against each other.
 
