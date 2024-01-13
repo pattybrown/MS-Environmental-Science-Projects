@@ -1,4 +1,4 @@
-Comparative Analysis of Fish Species Length
+Comparative Analysis of Fish Length by Species
 ================
 
 Is there a significant difference in average fish length by species
