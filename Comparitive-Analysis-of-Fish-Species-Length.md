@@ -65,7 +65,7 @@ ggplot(Fish, aes(x = Length, color = Species)) +
     ## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was
     ## generated.
 
-![](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Figures/unnamed-chunk-4-1.png)<!-- -->
+![](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Figures/unnamed-chunk-3-1.png)<!-- -->
 
 View boxplot:
 
