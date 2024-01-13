@@ -65,7 +65,7 @@ ggplot(Fish, aes(x = Length, color = Species)) +
     ## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was
     ## generated.
 
-![](Comparitive-Analysis-of-Fish-Species-Length_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Figures/unnamed-chunk-4-1.png)<!-- -->
 
 View boxplot:
 
@@ -76,7 +76,7 @@ ggplot(Fish, aes(x = Species, y =  Length, color = Species)) +
   theme(text = element_text(size = 20))
 ```
 
-![](Comparitive-Analysis-of-Fish-Species-Length_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Figures/unnamed-chunk-5-1.png)<!-- -->
 
 Run ANOVA:
 
