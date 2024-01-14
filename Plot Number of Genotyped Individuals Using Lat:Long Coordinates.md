@@ -117,4 +117,4 @@ Create bubble plot:
  bubble(Pulsatilla.longlat, "nIndiv", fill = FALSE,)
 ```
 
-![](Week-3-R-Notebook_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Figures/bubbleplot1.png)<!-- -->
