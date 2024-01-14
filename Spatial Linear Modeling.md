@@ -1,5 +1,6 @@
 Spatial Linear Modeling
 ================
+__Testing regression of flower density on the isolation of the sampled mother plants of Pulsatilla vulgaris, accounting for the sampling of multiple mothers from each of seven patches and for residual spatial autocorrelation.__
 
 ``` r
 require(ggplot2)
