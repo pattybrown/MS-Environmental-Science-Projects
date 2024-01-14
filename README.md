@@ -13,3 +13,5 @@ __Comparitive Analyses:__
 __Spatial Analyses:__
 
 [Plot Number of Genotyped Individuals Using Lat/Long Coordinates](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Plot%20Number%20of%20Genotyped%20Individuals%20Using%20Lat%3ALong%20Coordinates.md)
+
+[Spatial Linear Modeling](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Spatial%20Linear%20Modeling.md)
