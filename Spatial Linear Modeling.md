@@ -37,7 +37,7 @@ ggplot(Moms, aes(log(mom.isolation), log(flower.density))) + geom_point() + geom
 
     ## `geom_smooth()` using method = 'loess' and formula = 'y ~ x'
 
-![](Week-7-R-Notebook_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Figures/7-1.png)<!-- -->
 
 Fit non-spatial models using nlme and add a random effect for Population
 
@@ -63,7 +63,7 @@ vgmod2plot <- ggplot(vgmod2, aes(x=dist, y=variog)) + geom_point() + geom_smooth
 gridExtra::grid.arrange(vgmod1plot, vgmod2plot)
 ```
 
-![](Week-7-R-Notebook_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Figures/7-2.png)<!-- -->
 
 Add correlation structure and choose the best-fitting variogram model
 
@@ -118,7 +118,7 @@ Fitted.variog <- nlme::Variogram(mod.corGaus)
 plot(Fitted.variog)
 ```
 
-![](Week-7-R-Notebook_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+![](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Figures/7-3.png)<!-- -->
 
 Test fixed effect: Refit the best model with maximum likelihood to test
 the fixed effect
