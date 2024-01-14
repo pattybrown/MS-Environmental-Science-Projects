@@ -12,4 +12,4 @@ __Comparitive Analyses:__
 
 __Spatial Analyses:__
 
-[Comparative Analysis of Mean Annual Air Temperature](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Plot%20Number%20of%20Genotyped%20Individuals%20Using%20Lat%3ALong%20Coordinates.md)
+[Plot Number of Genotyped Individuals Using Lat/Long Coordinates](https://github.com/pattybrown/MS-Environmental-Science-Projects/blob/main/Plot%20Number%20of%20Genotyped%20Individuals%20Using%20Lat%3ALong%20Coordinates.md)
